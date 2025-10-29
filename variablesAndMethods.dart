@@ -3,10 +3,7 @@ void main() {
   double x = 66.66;
   String z= "hashwanth";
   var b = 666.88;
-  bool ispass;
-  ispass = mymarks(i);
-  print(ispass);
-  if(ispass){
+  if(mymarks(i)){
     print("Send him chocolates");
   } else
   {
