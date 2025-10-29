@@ -7,7 +7,7 @@ void main() {
 }
 mymarks(int marks) {
   print(marks);
-  if(marks>60){
+  if(marks>=60){
     print("well done");
   } else{
     print("you are doing geat");
