@@ -1,5 +1,5 @@
 void main() {
-  int i=60;
+  int i=30;
   double x = 66.66;
   String z= "hashwanth";
   var b = 666.88;
