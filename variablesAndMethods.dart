@@ -5,8 +5,7 @@ void main() {
   var b = 666.88;
   if(mymarks(i)){
     print("Send him chocolates");
-  } else
-  {
+  } else{
     print("Send him books");
   }
   
